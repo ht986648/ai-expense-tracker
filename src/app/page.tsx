@@ -141,7 +141,7 @@ export default function ExpenseTrackerLanding() {
         <div className="max-w-7xl mx-auto text-center">
           <div className="mb-8 inline-flex items-center px-4 py-2 bg-white/10 rounded-full backdrop-blur-lg border border-white/20">
             <Star className="w-4 h-4 text-yellow-400 mr-2" />
-            <span className="text-sm text-purple-200">Hackathon Winner 2024</span>
+            
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white via-purple-200 to-pink-200 bg-clip-text text-transparent leading-tight">
@@ -358,11 +358,11 @@ export default function ExpenseTrackerLanding() {
               <CreditCard className="w-4 h-4 text-white" />
             </div>
             <h3 className="text-xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-              ExpenseTracker
+             Expensify
             </h3>
           </div>
           <p className="text-gray-400">
-            Built with ❤️ for the Hackathon 2024 • Revolutionizing expense management with AI
+            Built with ❤️ Expensify  • Revolutionizing expense management with AI 
           </p>
         </div>
       </footer>
