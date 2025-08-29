@@ -127,7 +127,7 @@ export default function ExpenseTrackerLanding() {
               <CreditCard className="w-6 h-6 text-white" />
             </div>
             <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
-              EXPENSIFY
+              Expensify
             </h1>
           </div>
           <button className="px-6 py-2 bg-gradient-to-r from-purple-500 to-pink-500 rounded-full hover:shadow-lg hover:shadow-purple-500/25 transition-all duration-300 transform hover:scale-105">
