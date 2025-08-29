@@ -362,7 +362,7 @@ export default function ExpenseTrackerLanding() {
             </h3>
           </div>
           <p className="text-gray-400">
-            Built with ❤️ team  Expensify  • Revolutionizing expense management with AI 
+            Built with ❤️ team The Bill Breakers  • Revolutionizing expense management with AI 
           </p>
         </div>
       </footer>
